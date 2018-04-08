@@ -1,0 +1,1 @@
+﻿﻿﻿﻿﻿﻿重新获取博客> 1. 安装nodejs> 2. Git clone 仓库> 3. Git base依次执行npm install hexo、npm install、npm install hexo-deployer-git（记得，不需要hexo init这条指令）
