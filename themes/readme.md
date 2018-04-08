@@ -1,0 +1,1 @@
+﻿﻿﻿﻿﻿next主题：> https://github.com/iissnan/hexo-theme-next> 需要到项目目录下执行 git clone git clone +复制的地址+themes/next> 设置对应的config.yml
